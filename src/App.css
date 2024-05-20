@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+
+}
+
+.list {
+  display: flex ;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+*{
+  background-color: rgb(163, 87, 87);
+}
+.navv{
+  width: 100%;
+background-color: rgb(191, 204, 198);
+}
+
+.coo{
+  text-align: center;
+  background-color: rgb(191, 204, 198);
+}
+#basic-navbar-nav{
+  background-color: rgb(191, 204, 198);
+}
+.me-auto{
+  background-color: rgb(175, 238, 201);
+  margin-left: 45%;
+  
+}
+.butt {
+  margin-bottom: 2%;
+  border: 1px;
+}
+.butt :hover{
+  color: aquamarine;
+}
+.caard :hover {
+  color: antiquewhite;
+}
+  
+.foorm {
+  width: 30%;
+}
+/* .ratte{
+  display:inline-block;
+  
+background-color: #bb9fa9;
+} */
+
+

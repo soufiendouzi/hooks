@@ -2,9 +2,9 @@ import React from 'react';
 import {  Rate } from 'antd';
 
 
-const Rating = ( MovieRating , isMovieRating,rating,setRating) => {
+const Rating = ( {MovieRating , isMovieRating,rating,setRating}) => {
   const handleChange =(value) => {
-    setRating={value}
+    setRating (value)
   }  
   
   
